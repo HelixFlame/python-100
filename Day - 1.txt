@@ -1,0 +1,1 @@
+• Day 1: Setup and first program. Learn: install Python, VS Code, terminal basics, print(). Build: a script that prints a personalized greeting and ASCII art.
