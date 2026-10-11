@@ -1,0 +1,1 @@
+• Day 2: Variables and data types. Learn: int, float, str, bool, naming rules, comments. Build: a tip and bill-splitting calculator.

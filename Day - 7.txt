@@ -1,0 +1,1 @@
+• Day 7: Review and Mad Libs. Review days 1-6 and rewrite old scripts cleaner. Build: a Mad Libs story generator.
